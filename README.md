@@ -73,7 +73,7 @@ The app uses Dependency Injection (DI) design pattern. For more information on h
 Check [this article](https://code-maze.com/net-core-web-development-part3/) for an overview of the implemented logging features.
 
 
-#### Running Python Server
+# Running Python Server
 
 in order to display in the frontend, you would need to open a new terminal and run run py api.py
 
