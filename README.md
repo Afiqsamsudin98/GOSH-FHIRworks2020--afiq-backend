@@ -73,15 +73,8 @@ The app uses Dependency Injection (DI) design pattern. For more information on h
 Check [this article](https://code-maze.com/net-core-web-development-part3/) for an overview of the implemented logging features.
 
 
-# Tool Suite
+#### Running Python Server
 
-- A platform that provides access and documentation to FHIR developer tools
-- Access the platform at: https://toolsuite.azurewebsites.net/
-
-1) Login with your UCL email
-2) Register the application you are creating for the Hackathon
-3) Read documentation for chosen tool to gain access
-4) Input chosen tools in application profile
-
+in order to display in the frontend, you would need to open a new terminal and run run py api.py
 
 
